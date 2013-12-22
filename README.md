@@ -1,4 +1,4 @@
-It's a simple application to forward IEEE 1588v2 packets between two network
+It's a simple application to forward IEEE 1588v2 Ethernet multicast packets between two network
 interfaces.
 
 ![demo](screenshot1.jpg)
