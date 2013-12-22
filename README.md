@@ -5,5 +5,5 @@ interfaces.
 
 usage:
 
-1. gcc -o ptpproxy ptpproxy.c  -pthread
-2. ./ptpproxy br0 eth0
+1. `gcc -o ptpproxy ptpproxy.c  -pthread`
+2. `./ptpproxy br0 eth0`
